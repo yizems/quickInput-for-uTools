@@ -1,0 +1,22 @@
+{
+  "name": "quickinput",
+  "pluginName": "快捷输入",
+  "description": "用最简单的词输入每天都用到的复杂信息",
+  "homepage": "https://gitclone.com/github.com/crazykun/utools-googleAuth.git",
+  "author": "gongjinzhou",
+  "main": "index.html",
+  "logo": "icon.png",
+  "private": true,
+  "version": "0.0.0",
+  "preload": "preload.js",
+  "pluginType": "ui",
+  "features": [
+    {
+      "code": "quickinput_index",
+      "explain": "用最简单的词输入每天都用到的复杂信息",
+      "cmds": [
+        "快捷输入"
+      ]
+    }
+  ]
+}
